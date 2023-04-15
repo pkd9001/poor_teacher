@@ -62,4 +62,5 @@
   
 ### 5. 결과
 
-![image](https://user-images.githubusercontent.com/100681144/232205523-fd763572-f2c5-406f-90f1-627468d7d3c2.png)
+![poor 결과](https://user-images.githubusercontent.com/100681144/232205651-f55d2d90-1e58-4c0d-b702-ae3c3c9a0298.PNG)
+
