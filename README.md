@@ -17,12 +17,12 @@
   * single-sentence tasks
     * SST-2 (Stanford Sentiment Treebank)
   * similarity and paraphrase tasks
-    * MRPC (Microsoft Research Paraphrase Corpus)
+    * **MRPC** (Microsoft Research Paraphrase Corpus, 업로드 데이터)
     * QQP (Quora Question Pairs)
   * inference tasks
     * MNLI (Multi-Genre Natural Language Inference)
     * QNLI (Question Natural Language Inference)
-    * **RTE** (Recognizing Textual Entailment, 업로드 데이터)
+    * RTE (Recognizing Textual Entailment)
 
 ![gls 1](https://user-images.githubusercontent.com/100681144/231469975-65868513-12eb-4438-9257-240442c18af5.PNG)
 
