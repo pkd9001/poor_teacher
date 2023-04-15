@@ -19,6 +19,7 @@
   * similarity and paraphrase tasks
     * **MRPC** (Microsoft Research Paraphrase Corpus, 업로드 데이터)
     * QQP (Quora Question Pairs)
+    * STS-B (Semantic Textual Similarity Benchmark)
   * inference tasks
     * MNLI (Multi-Genre Natural Language Inference)
     * QNLI (Question Natural Language Inference)
@@ -64,3 +65,4 @@
 
 ![poor 결과](https://user-images.githubusercontent.com/100681144/232205651-f55d2d90-1e58-4c0d-b702-ae3c3c9a0298.PNG)
 
+* 7개의 데이터 셋 중, 5개 이상의 데이터 셋에서 기존의 지식증류보다 나은 성능을 
