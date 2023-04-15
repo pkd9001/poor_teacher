@@ -42,7 +42,7 @@
   * BERT-base의 Layer의 수를 1개로 줄이고, 1 Epoch만 학습을 시킨 모델
   * Teacher, Student, Poor-Teacher를 Triplet Loss로 학습
 
-![image](https://user-images.githubusercontent.com/100681144/232210705-f859d434-99eb-499a-bc9a-c6b1aeb05afb.png)
+![image](https://user-images.githubusercontent.com/100681144/232210750-06214118-71a0-4180-80c0-d354d3e40fc5.png)
 
 ### 4. 적용 Model
 * BERT-base(Teacher Model)
