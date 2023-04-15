@@ -17,9 +17,6 @@ import numpy as np
 import pandas as pd
 
 from tqdm import tqdm
-import re
-
-import os
 from custom_utils import *
 from torchmetrics import F1Score
 import gc
@@ -27,7 +24,7 @@ import gc
 device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 
 pretrain_student = "./student_model/bert-base-6"
-pretrain_teacher = "distilbert-base-cased" # "bert-base-cased" 
+pretrain_teacher = "bert-base-cased" 
 pretrain_poor_teacher = "./poor_teacher/bert-base-1"
 
 EPOCHS = 10
